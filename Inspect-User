@@ -42,4 +42,4 @@ A human verification system will be implemented to provide an expert opinion on 
 
 Conclusion
 
-This whitepaper has outlined a solution for content authenticity verification that combines the power of Python3, Java, and Natural Language Processing (NLP) algorithms. The proposed solution will be efficient in detecting AI-generated content, identifying inconsistencies in sentiment, detecting plagiarism, and using a human verification system to provide an expert opinion on the authenticity of content.
+This whitepaper has outlined a solution for content authenticity verification that combines the power of Python3, Java, and Natural Language Processing (NLP) algorithms. The proposed solution will be efficient in detecting AI-generated content, identifying inconsistencies in sentiment, detecting plagiarism, and using a human verification system to provide an expert opinion on the authenticity of content..
